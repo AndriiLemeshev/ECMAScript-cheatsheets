@@ -1,3 +1,4 @@
+```js
 // Mathematical Operators
 
 // Addition
@@ -94,3 +95,4 @@ const name = "Alice";
 "hello".includes("ell"); // = true
 "hello".startsWith("he"); // = true
 "hello".endsWith("lo"); // = true
+```
